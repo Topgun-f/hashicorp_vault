@@ -86,7 +86,7 @@ Enter webapp in the Name field.
 
 Enter this policy in the Policy field.
 
-![image info](./images/vaultgs3.png)
+![image info](./images/vaultgs3.PNG)
 
 Choose the Create policy action at the bottom of the view.
 
@@ -122,7 +122,7 @@ The editor enables navigation through the arrow keys.
 
 Add this policy to after the other content in the Policy field.
 
-![image info](./images/vaultgs4.png)
+![image info](./images/vaultgs4.PNG)
 
     Editing Tip: The editor supports common keyboard shortcuts for undo and redo. You can also reset every change back its original by choosing Cancel.
 
